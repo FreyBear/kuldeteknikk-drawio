@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="Tlf6F9ULVeMf3k4rLCmu" name="Page-1">
-    <mxGraphModel dx="2552" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="496" dy="214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="8Koz_Aw8jiFJMvcsLE0F-0" />
         <mxCell id="8Koz_Aw8jiFJMvcsLE0F-1" parent="8Koz_Aw8jiFJMvcsLE0F-0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="RBZrjEYd3-2Xdkb1tV8T-1" parent="8Koz_Aw8jiFJMvcsLE0F-1" style="shape=mxgraph.pid.heat_exchangers.heat_exchanger_(finned_tubes,_fan);html=1;pointerEvents=1;align=center;verticalLabelPosition=bottom;verticalAlign=top;dashed=0;" value="" vertex="1">
           <mxGeometry height="100" width="100" x="330" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MF7vlyk-9X2SNOOG2qhK-0" parent="8Koz_Aw8jiFJMvcsLE0F-1" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=gate;actuator=man" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="600" y="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
